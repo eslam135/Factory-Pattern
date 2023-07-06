@@ -59,3 +59,7 @@ Use the created object as required by the application. In the shape example, we 
             +-----------------------------+
             |     getShape()              |
             +-----------------------------+
+
+# Next Patter:
+https://github.com/eslam135/Abstract-Factory-Pattern
+
